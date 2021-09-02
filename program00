@@ -1,0 +1,19 @@
+/******************************************************************************
+ CLASS INFORMATION
+ -----------------
+   Program Name: program00
+   Programmer:   Kaleb Prichard
+   Instructor:   Mr. Plain for CS 214-2, C Programming
+   Date Due:     08/02/2021
+
+ DOCUMENTATION
+ -------------
+   This program displays hello world.
+ ******************************************************************************/
+ #include <stdio.h>
+ 
+ int main()
+ {
+   printf("Hello World\n");
+   return 0;
+ }
